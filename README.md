@@ -4,7 +4,7 @@ Catálogo de plantas de interior hecho en Flutter.
 Proyecto de la Unidad 3 – Desarrollo de Aplicaciones Móviles.
 
 ## Integrantes
-- Yretzy Montesinos Lopez
+- Yaretzy Montesinos Lopez
 - Elisa Sanches Coronel
 
 ## ¿Qué hace la app?
