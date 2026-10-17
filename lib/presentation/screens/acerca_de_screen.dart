@@ -45,8 +45,7 @@ class AcercaDeScreen extends StatelessWidget {
             const TituloSeccion(texto: 'Proyecto'),
             const Text(
               'Catálogo de plantas de interior hecho en Flutter para la Unidad 3 '
-              'de Desarrollo de Aplicaciones Móviles. Los datos se leen de un '
-              'archivo JSON local.',
+              'de Desarrollo de Aplicaciones Móviles.',
               style: TextStyle(fontSize: 15, height: 1.5),
             ),
 
