@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'core/app_theme.dart';
+import 'presentation/screens/inicio_screen.dart';
 
 void main() {
   runApp(const MiJardinApp());
@@ -14,10 +15,7 @@ class MiJardinApp extends StatelessWidget {
       title: 'Mi Jardín',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.tema,
-      // Pantalla temporal mientras se hacen las demás
-      home: const Scaffold(
-        body: Center(child: Text('Mi Jardín')),
-      ),
+      home: const InicioScreen(),
     );
   }
 }
