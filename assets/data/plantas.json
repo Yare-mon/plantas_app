@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "nombre": "Monstera",
+    "nombreCientifico": "Monstera deliciosa",
+    "categoria": "Interior",
+    "imagen": "https://picsum.photos/id/106/800/600",
+    "descripcion": "Planta tropical de hojas grandes con cortes naturales. Es muy decorativa y crece rápido si tiene buena luz.",
+    "dificultad": "Fácil",
+    "luz": "Luz indirecta brillante",
+    "riego": "1 vez por semana",
+    "aptaMascotas": false,
+    "cuidados": [
+      "Limpiar las hojas con un paño húmedo.",
+      "Dejar secar la tierra entre riegos.",
+      "Darle un tutor para que crezca hacia arriba."
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Sansevieria",
+    "nombreCientifico": "Dracaena trifasciata",
+    "categoria": "Interior",
+    "imagen": "https://picsum.photos/id/152/800/600",
+    "descripcion": "También llamada lengua de suegra. Aguanta poca luz y poco riego, ideal para principiantes.",
+    "dificultad": "Fácil",
+    "luz": "Poca luz o luz indirecta",
+    "riego": "Cada 2 o 3 semanas",
+    "aptaMascotas": false,
+    "cuidados": [
+      "No regar en exceso, se pudre la raíz.",
+      "Usar maceta con agujeros de drenaje.",
+      "Soporta bien el aire acondicionado."
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Calathea",
+    "nombreCientifico": "Goeppertia orbifolia",
+    "categoria": "Interior",
+    "imagen": "https://picsum.photos/id/175/800/600",
+    "descripcion": "Sus hojas tienen rayas plateadas y se cierran por la noche. Le gusta la humedad.",
+    "dificultad": "Difícil",
+    "luz": "Luz indirecta suave",
+    "riego": "2 veces por semana",
+    "aptaMascotas": true,
+    "cuidados": [
+      "Rociar las hojas con agua para dar humedad.",
+      "Usar agua sin cloro o reposada.",
+      "Evitar el sol directo, quema las hojas."
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Aloe vera",
+    "nombreCientifico": "Aloe barbadensis",
+    "categoria": "Suculentas",
+    "imagen": "https://picsum.photos/id/292/800/600",
+    "descripcion": "Suculenta conocida por el gel de sus hojas. Necesita sol y muy poca agua.",
+    "dificultad": "Fácil",
+    "luz": "Sol directo o mucha luz",
+    "riego": "Cada 3 semanas",
+    "aptaMascotas": false,
+    "cuidados": [
+      "Plantar en tierra para cactus.",
+      "Regar solo cuando la tierra esté seca.",
+      "Retirar hojas secas de la base."
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Echeveria",
+    "nombreCientifico": "Echeveria elegans",
+    "categoria": "Suculentas",
+    "imagen": "https://picsum.photos/id/360/800/600",
+    "descripcion": "Pequeña suculenta en forma de rosa. Perfecta para escritorios con ventana.",
+    "dificultad": "Fácil",
+    "luz": "Mucha luz",
+    "riego": "Cada 2 semanas",
+    "aptaMascotas": true,
+    "cuidados": [
+      "Regar la tierra, no las hojas.",
+      "Si se estira, necesita más luz.",
+      "Se reproduce con una hoja en tierra."
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Cactus de Navidad",
+    "nombreCientifico": "Schlumbergera truncata",
+    "categoria": "Suculentas",
+    "imagen": "https://picsum.photos/id/416/800/600",
+    "descripcion": "Cactus sin espinas que florece en invierno con flores rosas o rojas.",
+    "dificultad": "Media",
+    "luz": "Luz indirecta",
+    "riego": "1 vez por semana",
+    "aptaMascotas": true,
+    "cuidados": [
+      "No moverlo de lugar cuando tenga botones.",
+      "Reducir el riego después de florecer.",
+      "Le gustan las noches frescas."
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Pothos",
+    "nombreCientifico": "Epipremnum aureum",
+    "categoria": "Colgantes",
+    "imagen": "https://picsum.photos/id/429/800/600",
+    "descripcion": "Planta colgante muy resistente. Sus guías pueden crecer varios metros.",
+    "dificultad": "Fácil",
+    "luz": "Poca luz o luz indirecta",
+    "riego": "1 vez por semana",
+    "aptaMascotas": false,
+    "cuidados": [
+      "Podar las puntas para que se vea más llena.",
+      "Se reproduce poniendo un esqueje en agua.",
+      "Si las hojas se ponen amarillas, regar menos."
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Cinta",
+    "nombreCientifico": "Chlorophytum comosum",
+    "categoria": "Colgantes",
+    "imagen": "https://picsum.photos/id/493/800/600",
+    "descripcion": "Planta de hojas largas con rayas blancas. Produce hijitos que cuelgan de la maceta.",
+    "dificultad": "Fácil",
+    "luz": "Luz indirecta",
+    "riego": "1 vez por semana",
+    "aptaMascotas": true,
+    "cuidados": [
+      "Plantar los hijitos en macetas nuevas.",
+      "Las puntas secas se pueden cortar.",
+      "Ayuda a purificar el aire."
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "Collar de perlas",
+    "nombreCientifico": "Curio rowleyanus",
+    "categoria": "Colgantes",
+    "imagen": "https://picsum.photos/id/565/800/600",
+    "descripcion": "Suculenta colgante con hojitas redondas como perlas. Se ve muy bien en repisas altas.",
+    "dificultad": "Media",
+    "luz": "Luz indirecta brillante",
+    "riego": "Cada 2 semanas",
+    "aptaMascotas": false,
+    "cuidados": [
+      "No dejar agua acumulada en el plato.",
+      "Usar maceta pequeña y poco profunda.",
+      "Si las perlas se arrugan, necesita agua."
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "Orquídea",
+    "nombreCientifico": "Phalaenopsis",
+    "categoria": "Con flor",
+    "imagen": "https://picsum.photos/id/306/800/600",
+    "descripcion": "Orquídea muy común en casas. Sus flores pueden durar varios meses.",
+    "dificultad": "Media",
+    "luz": "Luz indirecta",
+    "riego": "1 vez por semana",
+    "aptaMascotas": true,
+    "cuidados": [
+      "Sumergir la maceta en agua 10 minutos.",
+      "Usar corteza en lugar de tierra.",
+      "Cortar la vara cuando se sequen las flores."
+    ]
+  },
+  {
+    "id": 11,
+    "nombre": "Violeta africana",
+    "nombreCientifico": "Saintpaulia ionantha",
+    "categoria": "Con flor",
+    "imagen": "https://picsum.photos/id/326/800/600",
+    "descripcion": "Planta pequeña de hojas peludas y flores moradas. Florece casi todo el año.",
+    "dificultad": "Media",
+    "luz": "Luz indirecta suave",
+    "riego": "2 veces por semana",
+    "aptaMascotas": true,
+    "cuidados": [
+      "Regar por abajo para no mojar las hojas.",
+      "Retirar flores secas.",
+      "Mantener lejos de corrientes de aire."
+    ]
+  },
+  {
+    "id": 12,
+    "nombre": "Anturio",
+    "nombreCientifico": "Anthurium andraeanum",
+    "categoria": "Con flor",
+    "imagen": "https://picsum.photos/id/399/800/600",
+    "descripcion": "Planta de flores rojas brillantes en forma de corazón. Da un toque elegante a la casa.",
+    "dificultad": "Difícil",
+    "luz": "Luz indirecta brillante",
+    "riego": "1 o 2 veces por semana",
+    "aptaMascotas": false,
+    "cuidados": [
+      "Mantener la tierra húmeda pero no encharcada.",
+      "Abonar cada mes en primavera.",
+      "Rociar las hojas en días secos."
+    ]
+  }
+]
