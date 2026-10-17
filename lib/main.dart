@@ -12,7 +12,7 @@ class MiJardinApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Mi Jardín App',
+      title: 'Mi jardin App',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.tema,
       home: const InicioScreen(),
