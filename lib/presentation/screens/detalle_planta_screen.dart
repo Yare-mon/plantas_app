@@ -8,7 +8,7 @@ import '../widgets/imagen_planta.dart';
 import '../widgets/item_lista.dart';
 import '../widgets/titulo_seccion.dart';
 
-// Pantalla de detalle: recibe la planta completa por el constructor
+// : recibe la planta completa por el constructor
 class DetallePlantaScreen extends StatelessWidget {
   final Planta planta;
 
