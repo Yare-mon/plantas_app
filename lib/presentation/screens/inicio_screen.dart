@@ -4,6 +4,7 @@ import '../widgets/boton_menu.dart';
 import 'acerca_de_screen.dart';
 import 'categorias_screen.dart';
 import 'lista_plantas_screen.dart';
+import 'busqueda_screen.dart';
 
 // Pantalla principal con el menu
 class InicioScreen extends StatelessWidget {
