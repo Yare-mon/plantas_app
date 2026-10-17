@@ -23,7 +23,8 @@ class InicioScreen extends StatelessWidget {
               const CircleAvatar(
                 radius: 36,
                 backgroundColor: AppColors.primarioClaro,
-                child: Icon(Icons.eco, size: 40, color: AppColors.primarioOscuro),
+                child:
+                    Icon(Icons.eco, size: 40, color: AppColors.primarioOscuro),
               ),
               const SizedBox(height: 20),
               const Text(
@@ -36,11 +37,10 @@ class InicioScreen extends StatelessWidget {
               ),
               const SizedBox(height: 8),
               const Text(
-                'Conoce tus plantas y aprende a cuidarlas.',
+                'Tu guía para cuidar plantas en casa.',
                 style: TextStyle(fontSize: 16, color: AppColors.textoSuave),
               ),
               const SizedBox(height: 32),
-
               BotonMenu(
                 icono: Icons.local_florist,
                 titulo: 'Todas las plantas',
@@ -48,7 +48,8 @@ class InicioScreen extends StatelessWidget {
                 onTap: () {
                   Navigator.push(
                     context,
-                    MaterialPageRoute(builder: (context) => const ListaPlantasScreen()),
+                    MaterialPageRoute(
+                        builder: (context) => const ListaPlantasScreen()),
                   );
                 },
               ),
@@ -59,7 +60,8 @@ class InicioScreen extends StatelessWidget {
                 onTap: () {
                   Navigator.push(
                     context,
-                    MaterialPageRoute(builder: (context) => const CategoriasScreen()),
+                    MaterialPageRoute(
+                        builder: (context) => const CategoriasScreen()),
                   );
                 },
               ),
@@ -70,7 +72,8 @@ class InicioScreen extends StatelessWidget {
                 onTap: () {
                   Navigator.push(
                     context,
-                    MaterialPageRoute(builder: (context) => const AcercaDeScreen()),
+                    MaterialPageRoute(
+                        builder: (context) => const AcercaDeScreen()),
                   );
                 },
               ),
