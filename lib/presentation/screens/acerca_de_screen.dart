@@ -21,7 +21,8 @@ class AcercaDeScreen extends StatelessWidget {
               child: CircleAvatar(
                 radius: 40,
                 backgroundColor: AppColors.primarioClaro,
-                child: Icon(Icons.eco, size: 44, color: AppColors.primarioOscuro),
+                child:
+                    Icon(Icons.eco, size: 44, color: AppColors.primarioOscuro),
               ),
             ),
             const SizedBox(height: 16),
@@ -37,22 +38,19 @@ class AcercaDeScreen extends StatelessWidget {
             ),
             const Center(
               child: Text(
-                'Versión 1.0.0',
+                'Versión 1.0.0 - Octubre 2026',
                 style: TextStyle(color: AppColors.textoSuave),
               ),
             ),
-
             const TituloSeccion(texto: 'Proyecto'),
             const Text(
               'Catálogo de plantas de interior hecho en Flutter para la Unidad 3 '
               'de Desarrollo de Aplicaciones Móviles.',
               style: TextStyle(fontSize: 15, height: 1.5),
             ),
-
             const TituloSeccion(texto: 'Equipo'),
             const ItemLista(texto: 'retzy Montesinos'),
             const ItemLista(texto: 'Elisa Sánchez Coronel'),
-
             const TituloSeccion(texto: 'Tecnologías'),
             const ItemLista(texto: 'Flutter y Dart'),
             const ItemLista(texto: 'JSON local con FutureBuilder'),
