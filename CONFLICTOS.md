@@ -14,5 +14,5 @@ versiones, y después se comprobó que la app siguiera funcionando.
 | 5 | lib/presentation/screens/acerca_de_screen.dart | 'Versión 1.0.0 - Octubre 2026' | 'Versión 1.1.0' | Compañera | 'Versión 1.1.0 - Octubre 2026' | #__ |
 
 ## Integrantes
-- Yare: (nombre completo)
-- Compañera: (nombre completo)
+- Yaretzy Montesinos Lopez
+- Elisa Sanchez Coronel
