@@ -1,17 +1,15 @@
-# plantas_app
+# Mi Jardín 
 
-A new Flutter project.
+Catálogo de plantas de interior hecho en Flutter.
+Proyecto de la Unidad 3 – Desarrollo de Aplicaciones Móviles.
 
-## Getting Started
+## Integrantes
+- Yretzy Montesinos Lopez
+- Elisa Sanches Coronel
 
-This project is a starting point for a Flutter application.
+## ¿Qué hace la app?
+Muestra un catálogo de 12 plantas leídas de un archivo JSON local
+(`assets/data/plantas.json`). Se pueden ver todas las plantas, filtrarlas
+por categoría y abrir el detalle de cada una con sus cuidados.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Arquitectura por capas
