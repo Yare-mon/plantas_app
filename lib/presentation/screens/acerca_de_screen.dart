@@ -37,7 +37,7 @@ class AcercaDeScreen extends StatelessWidget {
             ),
             const Center(
               child: Text(
-                'Versión 1.0.0',
+                'Versión 1.1.0',
                 style: TextStyle(color: AppColors.textoSuave),
               ),
             ),
