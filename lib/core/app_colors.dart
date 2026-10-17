@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 // Aquí están todos los colores de la app
 class AppColors {
   // Verdes
-  static const Color primario = Color(0xFF6B8F71);
+  static const Color primario = Color(0xFF7A9E7E);
   static const Color primarioOscuro = Color(0xFF3E5641);
   static const Color primarioClaro = Color(0xFFDCE8DD);
 
