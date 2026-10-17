@@ -37,7 +37,7 @@ class InicioScreen extends StatelessWidget {
               ),
               const SizedBox(height: 8),
               const Text(
-                'Tu guía para cuidar plantas en casa.',
+                'Descubre plantas y aprende a cuidarlas en casa.',
                 style: TextStyle(fontSize: 16, color: AppColors.textoSuave),
               ),
               const SizedBox(height: 32),
